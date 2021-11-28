@@ -1,0 +1,22 @@
+{
+    //by Llama Studios
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "ore-uni:bronze_ingot_from_block"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "ore-uni:bronze_block",
+                "count": 1
+            }
+        ],
+        "result": {
+            "item": "ore-uni:bronze_ingot",
+            "count": 9
+        }
+    }
+}

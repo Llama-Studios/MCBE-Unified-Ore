@@ -1,0 +1,26 @@
+{
+    //by Llama Studios
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "ore-uni:alloy_rose_gold"
+        },
+        "tags": [
+            "alloy"
+        ],
+        "ingredients": [
+            {
+                "item": "minecraft:copper_ingot",
+                "count": 1
+            },
+            {
+                "item": "minecraft:gold_ingot",
+                "count": 2
+            }
+        ],
+        "result": {
+            "item": "ore-uni:rose_gold_ingot",
+            "count": 2
+        }
+    }
+}

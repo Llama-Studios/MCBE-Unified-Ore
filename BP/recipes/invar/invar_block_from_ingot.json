@@ -1,0 +1,22 @@
+{
+    //by Llama Studios
+    "format_version": "1.12",
+    "minecraft:recipe_shapeless": {
+        "description": {
+            "identifier": "ore-uni:invar_block_from_ingot"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "ingredients": [
+            {
+                "item": "ore-uni:invar_ingot",
+                "count": 9
+            }
+        ],
+        "result": {
+            "item": "ore-uni:invar_block",
+            "count": 1
+        }
+    }
+}
